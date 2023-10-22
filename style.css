@@ -1,0 +1,19 @@
+ul {
+    list-style-type: none;
+}
+.review__list {
+    display: flex;
+    flex-direction: row;
+    gap: 28px;
+}
+.review__contianer {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.review__heading {
+    margin-bottom: 50px;
+}
+.review__content {
+    margin-bottom: 50px;
+}
