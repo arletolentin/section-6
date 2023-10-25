@@ -10,8 +10,11 @@
     --slate: #FAFAFA;
     --white: #FFF;
     --palewhite: #d7e4f940;
-
-
+}
+.mySwiper {
+    width: 1136px;
+    height: 285px;
+    overflow: hidden;
 }
 ul {
     list-style-type: none;
