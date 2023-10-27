@@ -12,14 +12,14 @@
     --palewhite: #d7e4f940;
 }
 .mySwiper {
-    width: 375px;
+    width: 1136px;
     height: 285px;
     padding: 0 20px;
     margin-bottom: 50px;
 }
 
 .swiper-slide-active {
-    width: 360px;
+    width: 1136px;
     margin-right: 15px;
 }
 ul {
@@ -37,16 +37,6 @@ button {
     width: 375px;
     padding: 0 20px;
     margin: 0 auto;
-}
-@media screen (min-width: 768px) {
-    .review__contianer {
-        width: 335px;
-        padding: 0 20px;
-    }
-    .mySwiper {
-        width: 335px;
-        slide
-    }
 }
 .review__list {
     display: flex;
